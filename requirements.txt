@@ -1,2 +1,4 @@
-qrcode
-pillow
+pillow==10.2.0
+qrcode==7.4.2
+streamlit==1.31.1
+validators==0.22.0
