@@ -1,4 +1,1 @@
-streamlit
 qrcode
-PIL
-io
